@@ -1,6 +1,6 @@
 package framework
 
-func Hello() string {
+func HelloV2() string {
 
 	return "Hello Nolan!"
 }
