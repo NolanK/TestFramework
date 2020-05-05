@@ -1,3 +1,3 @@
-module test_framwork/v2
+module framework/v2
 
 go 1.12
